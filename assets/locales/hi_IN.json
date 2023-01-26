@@ -1,0 +1,12 @@
+{
+    "preferences": {
+        "title": "पसंद",
+        "language": "भाषा",
+        "theme": "थीम",
+        "dark": "अंधेरा",
+        "light": "प्रकाश",
+        "system": "प्रणाली",
+        "save": "सहेजें",
+        "cancel": "रद्द करें"
+    }
+}

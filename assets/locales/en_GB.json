@@ -1,0 +1,12 @@
+{
+    "preferences": {
+        "title": "Preferences",
+        "language": "Language",
+        "theme": "Theme",
+        "dark": "Dark",
+        "light": "Light",
+        "system": "System",
+        "save": "Save",
+        "cancel": "Cancel"
+    }
+}
