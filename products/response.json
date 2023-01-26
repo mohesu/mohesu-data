@@ -41,7 +41,7 @@
     {
         "name": "Map location picker",
         "description": "Map location picker is a flutter package that allows you to pick a location on a map and get the latitude and longitude of the selected location with address.",
-        "image": "https://pub.dev/static/hash-qs2p3tk4/img/pub-dev-logo-2x.png",
+        "image": "https://i.imgur.com/QAvgINj.png",
         "tags": [
             "flutter",
             "dart",
@@ -55,7 +55,7 @@
     {
         "name": "Utils widget",
         "description": "Utils widget is a flutter package that contains a collection of useful widgets that can be used in your flutter app.",
-        "image": "https://pub.dev/static/hash-qs2p3tk4/img/pub-dev-logo-2x.png",
+        "image": "https://i.imgur.com/QAvgINj.png",
         "tags": [
             "flutter",
             "dart",
@@ -69,7 +69,7 @@
     {
         "name": "AI Scanner",
         "description": "AI Scanner is a flutter package that allows you to scan Qr & Bar code based on MLKit. Uses CameraX on Android, AVFoundation on iOS and Apple Vision & AVFoundation on macOS.",
-        "image": "https://pub.dev/static/hash-qs2p3tk4/img/pub-dev-logo-2x.png",
+        "image": "https://i.imgur.com/QAvgINj.png",
         "tags": [
             "flutter",
             "dart",
@@ -87,7 +87,7 @@
     {
         "name": "Loading button",
         "description": "Loading button is a flutter package that provides a button with a loading indicator that can be used in your flutter app. It can be used to show a loading indicator while performing a task.",
-        "image": "https://pub.dev/static/hash-qs2p3tk4/img/pub-dev-logo-2x.png",
+        "image": "https://i.imgur.com/QAvgINj.png",
         "tags": [
             "flutter",
             "dart",
