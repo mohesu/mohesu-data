@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Managed Server",
+        "description": "At Mohesu, we offer a wide range of server services to meet the needs of businesses of all sizes. Our services include both managed and unmanaged options, as well as support for both Windows and Linux servers. Whether you're looking to outsource your server management, or simply need a reliable hosting solution, we have the expertise and resources to help.\nOur server services are also available worldwide, so no matter where your business is located, you can trust Mohesu to provide the support and solutions you need to keep your online presence running smoothly.\nWith our managed server services, our team of experts will take care of the day-to-day management of your server, including monitoring, backups, updates, and security. This allows you to focus on your core business operations, while we handle the technical details.\nOur unmanaged server services give you complete control over your server, allowing you to customize and configure your server to suit your specific needs.\nWe are dedicated to providing our customers with the best server services and support, so you can rest easy knowing that your server is in good hands.",
+        "image": "https://cdn.pixabay.com/photo/2017/06/14/16/20/network-2402637_960_720.jpg",
+        "tags": [
+            "server",
+            "managed server",
+            "unmanaged server",
+            "windows server",
+            "linux server",
+            "server management",
+            "server monitoring",
+            "server backups",
+            "server updates",
+            "server security",
+            "server support",
+            "server services",
+            "server hosting",
+            "server solutions"
+        ],
+        "url": "",
+        "price": ""
+    },
+    {
+        "name": "Flutter Training",
+        "description": "Flutter Training is a course that teaches you how to build beautiful native apps on iOS and Android from a single codebase.",
+        "image": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_960_720.jpg",
+        "tags": [
+            "flutter",
+            "dart",
+            "mobile",
+            "android",
+            "ios",
+            "appwrite",
+            "firebase"
+        ],
+        "url": "",
+        "price": "Free"
+    },
+    {
+        "name": "Map location picker",
+        "description": "Map location picker is a flutter package that allows you to pick a location on a map and get the latitude and longitude of the selected location with address.",
+        "image": "https://pub.dev/static/hash-qs2p3tk4/img/pub-dev-logo-2x.png",
+        "tags": [
+            "flutter",
+            "dart",
+            "Google Maps",
+            "location",
+            "Google Places"
+        ],
+        "url": "https://pub.dev/packages/map_location_picker",
+        "price": "Free"
+    },
+    {
+        "name": "Utils widget",
+        "description": "Utils widget is a flutter package that contains a collection of useful widgets that can be used in your flutter app.",
+        "image": "https://pub.dev/static/hash-qs2p3tk4/img/pub-dev-logo-2x.png",
+        "tags": [
+            "flutter",
+            "dart",
+            "widgets",
+            "utils",
+            "utils widget"
+        ],
+        "url": "https://pub.dev/packages/utils_widget",
+        "price": "Free"
+    },
+    {
+        "name": "AI Scanner",
+        "description": "AI Scanner is a flutter package that allows you to scan Qr & Bar code based on MLKit. Uses CameraX on Android, AVFoundation on iOS and Apple Vision & AVFoundation on macOS.",
+        "image": "https://pub.dev/static/hash-qs2p3tk4/img/pub-dev-logo-2x.png",
+        "tags": [
+            "flutter",
+            "dart",
+            "MLKit",
+            "Qr code",
+            "Bar code",
+            "CameraX",
+            "AVFoundation",
+            "Apple Vision",
+            "AVFoundation"
+        ],
+        "url": "https://pub.dev/packages/ai_barcode_scanner",
+        "price": "Free"
+    },
+    {
+        "name": "Loading button",
+        "description": "Loading button is a flutter package that provides a button with a loading indicator that can be used in your flutter app. It can be used to show a loading indicator while performing a task.",
+        "image": "https://pub.dev/static/hash-qs2p3tk4/img/pub-dev-logo-2x.png",
+        "tags": [
+            "flutter",
+            "dart",
+            "button",
+            "loading",
+            "loading button",
+            "loading indicator"
+        ],
+        "url": "https://pub.dev/packages/loading_icon_button",
+        "price": "Free"
+    }
+]
