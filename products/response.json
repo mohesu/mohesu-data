@@ -2,7 +2,7 @@
     {
         "name": "Managed Server",
         "description": "At Mohesu, we offer a wide range of server services to meet the needs of businesses of all sizes. Our services include both managed and unmanaged options, as well as support for both Windows and Linux servers. Whether you're looking to outsource your server management, or simply need a reliable hosting solution, we have the expertise and resources to help.\nOur server services are also available worldwide, so no matter where your business is located, you can trust Mohesu to provide the support and solutions you need to keep your online presence running smoothly.",
-        "image": "https://cdn.pixabay.com/photo/2017/06/14/16/20/network-2402637_960_720.jpg",
+        "image": "https://i.imgur.com/6EJEFK5.jpg",
         "tags": [
             "server",
             "managed server",
@@ -25,7 +25,7 @@
     {
         "name": "Flutter Training",
         "description": "Flutter Training is a course that teaches you how to build beautiful native apps on iOS and Android from a single codebase.",
-        "image": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_960_720.jpg",
+        "image": "https://i.imgur.com/YpSiWoD.jpg",
         "tags": [
             "flutter",
             "dart",
@@ -69,7 +69,7 @@
     {
         "name": "AI Scanner",
         "description": "AI Scanner is a flutter package that allows you to scan Qr & Bar code based on MLKit. Uses CameraX on Android, AVFoundation on iOS and Apple Vision & AVFoundation on macOS.",
-        "image": "https://cdn.pixabay.com/photo/2016/12/13/07/26/qr-code-1903447_960_720.jpg",
+        "image": "https://i.imgur.com/p8zWYNO.png",
         "tags": [
             "flutter",
             "dart",
